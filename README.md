@@ -144,15 +144,15 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/zzzXenon/k3-proyek-akhir-machine-learning.svg?style=for-the-badge
 [contributors-url]: https://github.com/zzzXenon/k3-proyek-akhir-machine-learning/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/zzzXenon/k3-proyek-akhir-machine-learning.svg?style=for-the-badge
 [forks-url]: https://github.com/zzzXenon/k3-proyek-akhir-machine-learning/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/zzzXenon/k3-proyek-akhir-machine-learning.svg?style=for-the-badge
 [stars-url]: https://github.com/zzzXenon/k3-proyek-akhir-machine-learning/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/zzzXenon/k3-proyek-akhir-machine-learning.svg?style=for-the-badge
 [issues-url]: https://github.com/zzzXenon/k3-proyek-akhir-machine-learning/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/zzzXenon/k3-proyek-akhir-machine-learning.svg?style=for-the-badge
 [license-url]: https://github.com/zzzXenon/k3-proyek-akhir-machine-learning/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Python.js]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
