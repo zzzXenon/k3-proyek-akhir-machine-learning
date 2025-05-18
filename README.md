@@ -1,4 +1,4 @@
-<a id="readme-top"></a
+<a id="readme-top"></a>
                      
 <!-- PROJECT SHIELDS -->
 <!--
@@ -79,9 +79,9 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 ### Built With
 
 * [![Python][Python.js]][Python-url]
-* [![Flask][Flask.js][Flask-url]]
-* [![Pandas][Pandas.js][Pandas-url]]
-* [![Scikitlearn][Scikitlearn.js][Scikitlearn-url]]
+* [![Flask][Flask.js]][Flask-url]
+* [![Pandas][Pandas.js]][Pandas-url]
+* [![Scikitlearn][Scikitlearn.js]][Scikitlearn-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
