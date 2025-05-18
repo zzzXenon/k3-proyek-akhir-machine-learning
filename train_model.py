@@ -36,9 +36,12 @@ X_train, X_test, y_reg_train, y_reg_test, y_clf_train, y_clf_test = train_test_s
     X, y_reg, y_clf, test_size=0.2, random_state=42
 )
 
-# 5. Train
+# Train models
+# Regression model
 reg = RandomForestRegressor(random_state=42)
 reg.fit(X_train, y_reg_train)
+
+# Classification model
 clf = RandomForestClassifier(random_state=42)
 clf.fit(X_train, y_clf_train)
 

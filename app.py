@@ -5,9 +5,9 @@ import numpy as np
 app = Flask(__name__)
 
 # Load models & encoder
-with open('models/reg_model.pkl','rb') as f:
+with open('models/regression_model.pkl','rb') as f:
     reg = pickle.load(f)
-with open('models/clf_model.pkl','rb') as f:
+with open('models/classification_model.pkl','rb') as f:
     clf = pickle.load(f)
 with open('models/label_encoder.pkl','rb') as f:
     scaler, le_kelas = pickle.load(f)
